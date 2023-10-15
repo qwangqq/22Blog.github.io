@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>心得 - 标签 - No.22&#39;s Blog</title>
+        <link>https://qwangqq.github.io/tags/%E5%BF%83%E5%BE%97/</link>
+        <description>心得 - 标签 - No.22&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1829436840@qq.com (No.22)</managingEditor>
+            <webMaster>1829436840@qq.com (No.22)</webMaster><lastBuildDate>Fri, 04 Aug 2023 22:09:50 &#43;0800</lastBuildDate><atom:link href="https://qwangqq.github.io/tags/%E5%BF%83%E5%BE%97/" rel="self" type="application/rss+xml" /><item>
+    <title>建站小记</title>
+    <link>https://qwangqq.github.io/posts/%E5%BB%BA%E7%AB%99%E5%B0%8F%E8%AE%B0/</link>
+    <pubDate>Fri, 04 Aug 2023 22:09:50 &#43;0800</pubDate>
+    <author>No.22</author>
+    <guid>https://qwangqq.github.io/posts/%E5%BB%BA%E7%AB%99%E5%B0%8F%E8%AE%B0/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://cdn.staticaly.com/gh/qwangqq/Hugo_images@main/featured-image.webp" referrerpolicy="no-referrer">
+            </div>因为我一直想要一个属于自己的博客，所以我搭了这个网站！]]></description>
+</item>
+</channel>
+</rss>
