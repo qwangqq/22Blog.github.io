@@ -138,7 +138,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # LoveIt 新增 | 0.2.0 页面头部导航栏标题配置
   [params.header.title]
     # LOGO 的 URL
-    logo = "https://cdn.staticaly.com/gh/qwangqq/Hugo_images@main/avatar.png"
+    logo = "https://cdn.jsdelivr.net/gh/qwangqq/Hugo_images@main/avatar.png"
     # 标题名称
     name = "No.22's Blog"
     # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
@@ -191,7 +191,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # 是否隐藏网站图标资源链接
   noFavicon = false
   # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
-  svgFavicon = "https://cdn.staticaly.com/gh/qwangqq/Hugo_images@main/safari-pinned-tab.svg"
+  svgFavicon = "https://cdn.jsdelivr.net/gh/qwangqq/Hugo_images@main/safari-pinned-tab.svg"
   # Android 浏览器主题色
   themeColor = "#ffffff"
   # Safari 图标颜色
@@ -232,7 +232,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Gravatar 邮箱，用于优先在主页显示的头像
     gravatarEmail = ""
     # 主页显示头像的 URL
-    avatarURL = "https://cdn.staticaly.com/gh/qwangqq/Hugo_images@main/avatar.jpg"
+    avatarURL = "https://cdn.jsdelivr.net/gh/qwangqq/Hugo_images@main/avatar.jpg"
     # LoveIt 更改 | 0.2.7 主页显示的网站标题 (支持 HTML 格式)
     title = ""
     # 主页显示的网站副标题 (允许 HTML 格式)

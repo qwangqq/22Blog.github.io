@@ -1,11 +1,11 @@
 /* 轮播背景图片 */
 $(function () {
 	$.backstretch([
-		  "https://cdn.staticaly.com/gh/qwangqq/Hugo_images@main/%E9%93%B6%E7%8B%BC%E6%94%B9-%E6%98%9F%E7%A9%B9%E8%BD%A8%E9%81%93-109899883-0.webp",
-		  "https://cdn.staticaly.com/gh/qwangqq/Hugo_images@main/background2.webp",
-		  "https://cdn.staticaly.com/gh/qwangqq/Hugo_images@main/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93-108157873-0.webp",
-		  "https://cdn.staticaly.com/gh/qwangqq/Hugo_images@main/%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%20%E4%B8%89%E6%9C%88%E4%B8%83-107618199-0.webp",
-		  "https://cdn.staticaly.com/gh/qwangqq/Hugo_images@main/%E4%B8%9C%E6%96%B9%C3%97%E9%93%81%E9%81%93%E2%80%94%E2%80%94%E5%B0%8F%E5%8C%97-102913422-0.webp",
+		  "https://cdn.jsdelivr.net/gh/qwangqq/Hugo_images@main/银狼改-星穹轨道-109899883-0.webp",
+		  "https://cdn.jsdelivr.net/gh/qwangqq/Hugo_images@main/background2.webp",
+		  "https://cdn.jsdelivr.net/gh/qwangqq/Hugo_images@main/崩坏星穹铁道-三月七-107618199-0.webp",
+		  "https://cdn.jsdelivr.net/gh/qwangqq/Hugo_images@main/星穹铁道-108157873-0.webp",
+		  "https://cdn.jsdelivr.net/gh/qwangqq/Hugo_images@main/东方×铁道——小北-102913422-0.webp",
 	], { duration: 60000, fade: 1500 });
 });
 '<script src="/live2d-widget/autoload.js"></script>'
